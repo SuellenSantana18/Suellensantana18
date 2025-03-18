@@ -29,14 +29,14 @@ Olá! Sou estudante na EBAC e tenho como objetivo me tornar uma desenvolvedora F
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SuellenSantana18&theme=radical"/>
 </p>
 
-## 🔥 Minhas Linguagens
+## 🔥 Minhas Linguagens:
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuellenSantana18&layout=compact&langs_count=6&theme=radical"/>
 </p>
 
 
-## 🚀 Principais Habilidades
+## 🚀 Principais Habilidades:
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -45,7 +45,7 @@ Olá! Sou estudante na EBAC e tenho como objetivo me tornar uma desenvolvedora F
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-## 📚 O que Estou Estudando
+## 📚 O que Estou Estudando:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
